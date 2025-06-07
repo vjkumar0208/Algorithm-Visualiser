@@ -25,7 +25,7 @@ const height =
     document.documentElement.clientHeight ||
     document.body.clientHeight;
 const width =
-    window.innerWdith ||
+    window.innerWidth ||
     document.documentElement.clientWidth ||
     document.body.clientWidth;
 
